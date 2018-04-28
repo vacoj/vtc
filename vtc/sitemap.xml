@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vacoj.github.io/categories/</loc>
+    <loc>https://vacoj.github.io/vtc/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vacoj.github.io/tags/</loc>
+    <loc>https://vacoj.github.io/vtc/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vacoj.github.io/</loc>
+    <loc>https://vacoj.github.io/vtc/</loc>
     <priority>0</priority>
   </url>
   
